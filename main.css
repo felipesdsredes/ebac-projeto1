@@ -82,8 +82,13 @@ section {
 
 
 .logomario {
-    margin-right: 32px;
-    height: 300px;
+    margin-right: 16px;
+    height: 280px;
+}
+
+.jogo {
+    margin-right: 16px;
+    height: 100px;
 }
 
 .social-links img {
@@ -92,6 +97,11 @@ section {
 
 .social-links li a {
     text-decoration: none;
+}
+
+.social-links li  {
+    display: inline;
+    margin-right: 4px;
 }
 
 .social-links {
